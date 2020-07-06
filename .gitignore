@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# JetBrains IDE
+.idea/
+
+# Dogebuild build directory
+build/
